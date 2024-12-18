@@ -6,7 +6,7 @@ Protect your Discord server like never before with **Opus** — the ultimate sec
 
 ## 🚀 Get Started
  
-👉 **[View Documentation](https://opus-pi.vercel.app/docs)**  
+👉 **[View Website](https://opus.vercel.app/)**  
 
 ---
 
