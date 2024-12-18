@@ -1,21 +1,42 @@
-# React + TypeScript + Vite
+# 🚀 Opus: Secure Your Discord Server with Confidence
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Protect your Discord server like never before with **Opus** — the ultimate security solution designed to safeguard against alt accounts, nuking attempts, and raids with cutting-edge intelligence.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+---
 
-## Deploy Your Own
+## 🚀 Get Started
+ 
+👉 **[View Documentation](https://opus-pi.vercel.app/docs)**  
 
-Deploy your own Vite project with Vercel.
+---
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+## 🔐 Key Features
 
-_Live Example: https://vite-react-example.vercel.app_
+### 🕵️ Alt Account Detection  
+Advanced algorithms to identify and prevent alt accounts from accessing your server.
 
-### Deploying From Your Terminal
+### 🔥 Anti-Nuke Protection  
+Real-time protection to stop malicious attempts to damage your server.
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+### 📊 Server Monitoring  
+24/7 surveillance of server activities with detailed, easy-to-read security logs.
 
-```shell
-$ vercel
-```
+### 🚨 Raid Protection  
+Automatic detection and prevention of coordinated raid attempts to keep your community safe.
+
+### ⚠️ Suspicious Activity Alerts  
+Receive instant notifications about potential security threats or suspicious behavior.
+
+### ⚙️ Custom Configuration  
+Tailor Opus’s security settings to meet the specific needs of your server.
+
+---
+
+## 🤝 Why Choose Opus?
+
+With Opus, you’re not just getting a bot — you’re gaining peace of mind. Let our intelligent security system handle the threats, so you can focus on growing your community. 💪
+
+---
+
+💡 **Secure your server now and experience the power of Opus!**  
+Made with ❤️ for Discord communities everywhere.  
